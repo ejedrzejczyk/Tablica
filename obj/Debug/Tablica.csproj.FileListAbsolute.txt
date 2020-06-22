@@ -1,0 +1,7 @@
+D:\studia\sem6\nowoczesne języki zorientowane obiektowo\workspace\Tablica\bin\Debug\Tablica.exe.config
+D:\studia\sem6\nowoczesne języki zorientowane obiektowo\workspace\Tablica\bin\Debug\Tablica.exe
+D:\studia\sem6\nowoczesne języki zorientowane obiektowo\workspace\Tablica\bin\Debug\Tablica.pdb
+D:\studia\sem6\nowoczesne języki zorientowane obiektowo\workspace\Tablica\obj\Debug\Tablica.csprojAssemblyReference.cache
+D:\studia\sem6\nowoczesne języki zorientowane obiektowo\workspace\Tablica\obj\Debug\Tablica.csproj.CoreCompileInputs.cache
+D:\studia\sem6\nowoczesne języki zorientowane obiektowo\workspace\Tablica\obj\Debug\Tablica.exe
+D:\studia\sem6\nowoczesne języki zorientowane obiektowo\workspace\Tablica\obj\Debug\Tablica.pdb
